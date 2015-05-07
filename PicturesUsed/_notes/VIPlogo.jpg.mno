@@ -9,7 +9,7 @@
 	<infoitem key="CropRight" value="0" />
 	<infoitem key="CropTop" value="0" />
 	<infoitem key="Crop" value="false" />
-	<infoitem key="Constrain" value="true" />
+	<infoitem key="Constrain" value="false" />
 	<infoitem key="DitherMode" value="NoDither" />
 	<infoitem key="DitherPercent" value="100" />
 	<infoitem key="Interlaced" value="1" />
@@ -20,15 +20,15 @@
 	<infoitem key="LossyGifAmount" value="0" />
 	<infoitem key="ProgressiveJPEG" value="1" />
 	<infoitem key="TransparencyIndex" value="0" />
-	<infoitem key="UseScale" value="true" />
+	<infoitem key="UseScale" value="false" />
 	<infoitem key="PercentScale" value="100" />
-	<infoitem key="ApplyScale" value="false" />
-	<infoitem key="XSize" value="0" />
-	<infoitem key="YSize" value="0" />
+	<infoitem key="ApplyScale" value="true" />
+	<infoitem key="XSize" value="845" />
+	<infoitem key="YSize" value="282" />
 	<infoitem key="NumCustomEntries" value="0" />
 	<infoitem key="NumEntriesRequested" value="128" />
 	<infoitem key="NumGridEntries" value="6" />
-	<infoitem key="Optimized" value="1" />
+	<infoitem key="Optimized" value="0" />
 	<infoitem key="PaletteEntry0" value="4294967295" />
 	<infoitem key="PaletteEntry1" value="4294967295" />
 	<infoitem key="PaletteEntry2" value="4294967295" />
@@ -295,5 +295,5 @@
 	<infoitem key="UseMatte" value="false" />
 	<infoitem key="MatteColor" value="4294967295" />
 	<infoitem key="completeRepresentationOfOriginal" value="true" />
-	<infoitem key="smartObjectLastSyncDateTime" value="20150505120328" />
+	<infoitem key="smartObjectLastSyncDateTime" value="20150507112946" />
 </info>
